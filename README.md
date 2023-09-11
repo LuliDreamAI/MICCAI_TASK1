@@ -45,8 +45,8 @@ classification_train
 │   └── train_labels.csv
 ├── Images
 │   └── train
-│       ├── mmac_task_1_train_1123.png
-│       ├── mmac_task_1_train_1124.png
+│       ├── mmac_task_1_train_0001.png
+│       ├── mmac_task_1_train_0002.png
 │       ├── ...
 │       └── mmac_task_1_train_1143.png
 ├── LICENSE.txt
