@@ -8,6 +8,7 @@ cd MICCAI_TASK1
 conda create -n miccai_mmpre python=3.8 pytorch==1.11.0 torchvision==0.12.0 cudatoolkit=11.3 -c pytorch -y
 conda activate miccai_mmpre
 pip3 install openmim
+git clone https://github.com/open-mmlab/mmpretrain.git
 cd mmpretrain
 mim install -e .
 cd ..
